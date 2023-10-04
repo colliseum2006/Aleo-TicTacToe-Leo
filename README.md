@@ -1,4 +1,5 @@
 <!-- # ⭕ Tic-Tac-Toe -->
+![image](https://github.com/colliseum2006/Aleo-TicTacToe-Leo/assets/26433623/a14928cc-3554-4188-8806-1e9ea56221a7)
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
